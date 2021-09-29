@@ -1,0 +1,1 @@
+{"version":3,"file":"assets/js/main.2cf9fdd2bb52653d208b.js","mappings":"mBAAoBA,SAASC,qBAAqB,QAAQ,I","sources":["webpack://tb-basketball.github.io/./src/assets/code/index.ts"],"sourcesContent":["const bodyElement = document.getElementsByTagName(\"body\")[0] ;\n"],"names":["document","getElementsByTagName"],"sourceRoot":""}
